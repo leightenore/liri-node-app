@@ -19,4 +19,6 @@ LIRI retrieves data about a movie from the OMBD API.  If no movie is provided, L
 
 ![movie-this-example](./screenshots/movie-this.png)
 
+* #### do-what-it-says
+LIRI will read the random.txt file and do what it says. The default example will run the spotify-this-song command for the song "I Want It That Way" by The Backstreet Boys.
 
