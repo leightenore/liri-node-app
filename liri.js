@@ -16,7 +16,7 @@ let userRequest = "";
 const spotify = new Spotify(keys.spotify);
 
 
-//Functions and Main Process
+//Main Process
 //==============================================================================================
 
 function runCommand() {
