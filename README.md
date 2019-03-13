@@ -29,8 +29,6 @@ LIRI will read the random.txt file and do what it says. The default example will
 
 ### Technologies Utilized
 
-* HTML
-* CSS
 * JavaScript
 * Node.js
 * NPM Packages:
